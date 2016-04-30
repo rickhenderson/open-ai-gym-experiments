@@ -1,6 +1,6 @@
 # aisample.py
 # Created by Rick Henderson
-# Created on April 30, 2016
+# Created on April 29, 2016
 #
 # Created to explore the OpenAI gym framework.
 
