@@ -62,4 +62,4 @@ if __name__ == '__main__':
     # Upload to the scoreboard. We could also do this from another
     # process if we wanted.
     logger.info("Successfully ran CodedAgent. Now trying to upload results to the scoreboard. If it breaks, you can always just try re-uploading the same results.")
-    gym.upload(outdir, algorithm_id='coded', api_key='sk_AZfuv4isR6vHgVTzsCfqQ')
+    gym.upload(outdir, algorithm_id='coded', api_key='YOUR API_KEY')
